@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -216,6 +216,9 @@
 	    <h2>Address:</h2>
 	    <p><span>Hometown:</span>Sto. Niño, Salug Zamboanga Del Norte</p>
         <p><span>Current Address:</span> ZNAC Tampilisan, Dorm B,Zamboanga Del Norte</p>
+
+ </body>
+ </html>
 		
 	    
 
