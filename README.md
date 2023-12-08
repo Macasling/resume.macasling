@@ -1,6 +1,6 @@
 
 <html lang="en">
-<head>
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Resume</title>
@@ -194,7 +194,7 @@
             <p><span>Father's Name:</span> Carlos T. Macasling</p>
             <p><span>Mother's Name:</span> Emie E. Macasling</p>
             <p><span>Religion:</span> Roman Catholic</p>
-            <p>Language:</span> Bisaya, Tagalog, English</p>
+            <p>Language: Bisaya, Tagalog, English</p>
 	<hr class="side-line">
             <h2>Contact Information:</h2>
             <p><span>📧:</span> macaslingkimberly@gamil.com</p>
@@ -206,12 +206,12 @@
 	    <p><span>Sto. Niño, Elementary School</span></p>
 	<h3>Secondary:</h3>
             <p><span>Bacong National High  School, Bacong Salug,Zamboanga Del Norte</span></p>
-            <li><span>Studied - AGRI-CROP PRODUCTION<span></li>
+            <li><span>Studied - AGRI-CROP PRODUCTION<span>
 	    <p><span>Bacong Señior High School, Bacong Salug,Zamboanga Del Norte</span></p>
         <li>Studied - HUMANITIES AND SOCIAL SCIENCES</li>
         <h3>Tertiary</h3>
-        <p><span>Jose Rizal Memorial State University-TC<span></p>
-        <li><span>Studies - Bachelor Of Science in Computer Science<span></li>
+        <p><span>Jose Rizal Memorial State University-TC<span>
+        <li><span>Studies - Bachelor Of Science in Computer Science<span>
 	<hr class="side-line">
 	    <h2>Address:</h2>
 	    <p><span>Hometown:</span>Sto. Niño, Salug Zamboanga Del Norte</p>
