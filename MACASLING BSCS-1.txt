@@ -136,7 +136,7 @@
 <h2>About Me</h2>
         <p><span>I am Kimberly E. Macasling 19 years old, I was studied Humanities and Social Sciences at Bacong Senior High School, 
 			by studying (HUMSS) I was able to gained the skills of writing fiction and learn a little about law.I also love solving mystery and problem-solving.
-			In this current time I am studying Computer Science because I want to gain more knowledge about computer and to bbe literate in digiital world.
+			In this current time I am studying Computer Science because I want to gain more knowledge about computer and to be literate in digital world.
 		
 		</span></p>
         <hr class="bottom line">
